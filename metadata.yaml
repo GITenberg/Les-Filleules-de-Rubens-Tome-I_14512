@@ -1,0 +1,28 @@
+_repo: Les-Filleules-de-Rubens-Tome-I_14512
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berthoud, S. Henry (Samuel Henry)
+    alias: Berthoud, Samuel Henry
+    birthdate: 1804
+    deathdate: 1891
+    gutenberg_agent_id: '5559'
+    url: http://www.gutenberg.org/2009/agents/5559
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14512'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PQ'
+title: Les Filleules de Rubens, Tome I
+url: http://www.gutenberg.org/ebooks/14512
